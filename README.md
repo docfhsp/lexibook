@@ -1,6 +1,6 @@
 # Lexibook
 
-Convery PDF textbooks to smart e books.
+Convert PDF textbooks to smart e books.
 
 
 ## Pre-requisite
